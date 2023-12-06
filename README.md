@@ -1,27 +1,60 @@
-# ShorterUrl
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
+  Features
+  Pricing
+  Resources
 
-## Development server
+  Login
+  Sign Up
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+  
 
-## Build
+  Get Started
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+  Shorten a link here...
 
-## Running unit tests
+  Shorten It!
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+  Advanced Statistics
 
-## Running end-to-end tests
+  Track how your links are performing across the web with our
+  advanced statistics dashboard.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+  Brand Recognition
 
-## Further help
+  Boost your brand recognition with each click. Generic links don’t
+  mean a thing. Branded links help instil confidence in your content.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+  Detailed Records
+
+  Gain insights into who is clicking your links. Knowing when and where
+  people engage with your content helps inform better decisions.
+
+  Fully Customizable
+
+  Improve brand awareness and content discoverability through customizable
+  links, supercharging audience engagement.
+
+  Boost your links today
+
+  Get Started
+
+  Features
+
+  Link Shortening
+  Branded Links
+  Analytics
+
+  Resources
+
+  Blog
+  Developers
+  Support
+
+  Company
+
+  About
+  Our Team
+  Careers
+  Contact
